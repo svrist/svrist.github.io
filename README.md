@@ -1,0 +1,2 @@
+- [Privacy policy](./privacy/)
+- [Terms of service](./terms/)
