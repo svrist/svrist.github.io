@@ -1,4 +1,4 @@
-layout: poage
+layout: page
 title: Privacy Policy
 permalink: /privacy/
 
