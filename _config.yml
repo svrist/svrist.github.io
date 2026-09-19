@@ -1,3 +1,7 @@
 theme: jekyll-theme-minimal
-title: Svrist rclone page
-description: A simple Jekyll site for Svrists rclone
+title: rclone
+description: Personal rclone deployment for encrypted off-site backups from a private home-lab server to the operator's own Google Drive.
+
+# Google Search Console ownership verification (HTML tag method).
+# Paste the value from the <meta name="google-site-verification" ...> tag here.
+# google_site_verification: ""
